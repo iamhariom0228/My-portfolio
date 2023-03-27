@@ -51,7 +51,7 @@ const Contact = () => {
             <h4>WhatsApp</h4>
             <h5>+91-62XXX-XXX83</h5>
             <a
-              href="https://wa.me/+91620696543?text=Hi,Hariom!"
+              href="https://wa.me/+916206965483?text=Hi,Hariom!"
               target="_blank"
             >
               Connect on WhatsApp
