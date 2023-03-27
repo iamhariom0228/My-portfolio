@@ -25,16 +25,3 @@ const App = () => {
 
 export default App
 
-// export const App = () => {
-//   return (
-//     <>
-//       <Header/>
-//       <Nav/>
-//       <About/>
-//       <Experience/>
-//       <Portfolio/>
-//       <Contact/>
-//       <Footer/>
-//     </>
-//   )
-// }
